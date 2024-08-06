@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TopicTrek-quizApp/static/css/main.7f5be0b8.css",
+    "main.js": "/TopicTrek-quizApp/static/js/main.25cc1360.js",
+    "static/js/453.03965d79.chunk.js": "/TopicTrek-quizApp/static/js/453.03965d79.chunk.js",
+    "index.html": "/TopicTrek-quizApp/index.html",
+    "main.7f5be0b8.css.map": "/TopicTrek-quizApp/static/css/main.7f5be0b8.css.map",
+    "main.25cc1360.js.map": "/TopicTrek-quizApp/static/js/main.25cc1360.js.map",
+    "453.03965d79.chunk.js.map": "/TopicTrek-quizApp/static/js/453.03965d79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f5be0b8.css",
+    "static/js/main.25cc1360.js"
+  ]
+}
